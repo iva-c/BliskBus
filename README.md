@@ -26,6 +26,10 @@ R in Python skripte uporabljene za analizo lokacijskih podatkov (na HPCjih) in d
 
 Prikaz obremenjenosti LPP postaj na zemljevidu Ljubljane (s folium).	
 
+## podatki
+
+Manjše datoteke uporabljene za analizo (podatki o vseh postajah in o vseh linijah).	
+
 ## zbiranje_podatkov
 
 Skripte za pobiranje lokacij avtobusov iz https://mestnipromet.cyou/api/v1/resources/buses/info preko API.	
