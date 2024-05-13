@@ -1,0 +1,8 @@
+Bootstrap: docker
+From: ubuntu:22.04
+
+%post
+    apt-get -y update && apt-get install -y python3.12.3
+
+%files
+    /lokacije_za_bus_pretvorba.py

@@ -1,0 +1,9 @@
+Bootstrap: docker
+From: ubuntu:22.04
+
+%post
+    apt-get -y update && apt-get install -y r-base=4.3.1
+
+%files
+    /bliskbus_priprava_podatkov.R
+    /bliskbus_analiza_podatkov.R
