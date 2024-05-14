@@ -15,9 +15,9 @@ Analiza prosto dostopnih podatkov o lokacijah avtobusov Ljubljanskega potniškeg
 Več kot en mesec sva vsake 3 sekunde preko API nabirala podatke o lokacijah vseh avtobusov LPP. S pomočjo datotek s postajališči vsseh linije v vsako smer sva določila, koliko časa se v povprečju avtobusi dnevnih linij med delavniki zadržijo na posamezni postaji. To sva uporabila za načrtovanje hitrih avtobusnih linij, ki se ustavljajo le na najbolj obremenjenih postajališčih.
 
 3 hitre linije so:
-- linija 1H s posstajami: Stanežiče P+R, Vižmarje, Aleja, Gosposvetska, Tobačna, Aškerčeva, Mestni Log, Dolgi Most P+R 
-- linija 6H s postajami: Črnuče, Rogovilc, Ruski car, Mercator, Bavarski dvor, Konzorcij, Aškerčeva, Hajdrihova, Vič, Dolgi Most P+R 
-- linija 27H s postajami: Letališka, BTC-Kolosej, Viadukt, Kolodvor, Bavarski dvor, Privoz, Mihov štradon, NS Rudnik
+- linija 1H s posstajami: Stanežiče P+R, Vižmarje, Aleja, Gosposvetska, Konzorcij/Pošta, Tobačna, Koprska, Mestni Log, Dolgi Most P+R 
+- linija 6H s postajami: Črnuče, Rogovilc, Ruski car, Mercator, Bavarski dvor, Konzorcij/Pošta, Aškerčeva, Hajdrihova, Vič, Dolgi Most P+R 
+- linija 27H s postajami: Letališka, BTC-Kolosej, Šola Jarše, Kolodvor, Bavarski dvor, Privoz, Ižanska, Mihov štradon, NS Rudnik
 
 Postaje so v bljižini večjih stanovanjshih naselji ali izobraževalnih inštitucij. 
 
