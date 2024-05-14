@@ -2,6 +2,9 @@
 
 Prikaz obremenjenosti postaj s folium 	
 
+## environment.yml
+yml datoteka Coda okolja uporabljenega za poganjanje skript v tem sklopu.
+
 ## postaje.json
 Vse postaje LPP.	
 

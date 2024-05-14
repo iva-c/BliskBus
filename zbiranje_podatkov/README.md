@@ -1,6 +1,6 @@
 # zbiranje podatkov
 
-Skripte za zbiranje podatkov za analizo
+Skripte za zbiranje podatkov za analizo. Za poganjanje se je uporabljajo isto okolje kot za grafe (conda yml datoteka je v /BliskBus/grafike/environment.yml)
 
 ## lokacijeCaller.py
 Zbiraje lokacij iz API https://mestnipromet.cyou/api/v1/resources/buses/info
